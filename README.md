@@ -136,6 +136,6 @@ Execute o servidor com `npm run start` ou `node app.js`.
 
 ## Disponibilidade e Licenciamento!
 
-O MassMailer está disponível para aquisição. Este software não é de código aberto e, portanto, não está licenciado sob nenhuma licença de código livre. A compra do software concede ao comprador o direito de uso, mas o código-fonte não pode ser redistribuído, modificado ou compartilhado sem autorização prévia.
+O MassMailer está disponível para aquisição. Este software está licenciado sob a Licença de Comercial. A compra do software concede ao comprador o direito de uso, mas o código-fonte não pode ser redistribuído, modificado ou compartilhado sem autorização prévia e assinatura do desenvolvedor.
 
 Para mais informações sobre como adquirir o MassMailer, entre em contato com `dev.queiroz05@gmail.com`.
