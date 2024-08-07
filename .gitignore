@@ -1,0 +1,4 @@
+/mysql/node_modules
+/mysql/package-lock.json
+/postgre/node_modules
+/postgre/package-lock.json

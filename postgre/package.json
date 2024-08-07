@@ -1,0 +1,26 @@
+{
+  "name": "postgre-broadcast",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "postgre",
+    "broadcast",
+    "email",
+    "e-mail"
+  ],
+  "author": "Douglas Vinícios dos Santos Queiroz",
+  "license": "",
+  "description": "E-mails broadcast of the Postgre database, using the library 'Nodemailer'.",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.14",
+    "path": "^0.12.7",
+    "pg": "^8.12.0"
+  }
+}
